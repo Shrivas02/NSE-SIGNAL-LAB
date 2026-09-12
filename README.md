@@ -52,7 +52,6 @@ Launch the Streamlit analytics lab:
 ```powershell
 streamlit run dashboard/app.py
 ```
-Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 - **Multi-Strategy Scans**: Run Heikin-Ashi reversals, Ichimoku Cloud breakouts, and Mansfield Relative Strength (RS) scans.
 - **Visual Analytics**: Interactive Plotly candlestick charts with Entry, Stop Loss, and 1R/2R Target lines.
