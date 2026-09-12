@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Testing cache
+.pytest_cache/
+
+# Streamlit local config & secrets
+.streamlit/secrets.toml
+.streamlit/credentials.toml
+
+# IDE & Editor settings
+.vscode/
+.idea/
+.cursor/
+
+# Temporary generated test output & scans
+backtest_trades_*.csv
+Ichimoku_NSE500_*.xlsx
+_debug_monthly_colors.py
